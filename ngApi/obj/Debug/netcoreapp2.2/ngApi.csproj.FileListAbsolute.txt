@@ -1,0 +1,14 @@
+D:\workarea\ng-interceptor\ngApi\bin\Debug\netcoreapp2.2\ngApi.deps.json
+D:\workarea\ng-interceptor\ngApi\bin\Debug\netcoreapp2.2\ngApi.runtimeconfig.json
+D:\workarea\ng-interceptor\ngApi\bin\Debug\netcoreapp2.2\ngApi.runtimeconfig.dev.json
+D:\workarea\ng-interceptor\ngApi\bin\Debug\netcoreapp2.2\ngApi.dll
+D:\workarea\ng-interceptor\ngApi\bin\Debug\netcoreapp2.2\ngApi.pdb
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.csprojAssemblyReference.cache
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.csproj.CoreCompileInputs.cache
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.RazorAssemblyInfo.cache
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.RazorAssemblyInfo.cs
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.AssemblyInfoInputs.cache
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.AssemblyInfo.cs
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.RazorTargetAssemblyInfo.cache
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.dll
+D:\workarea\ng-interceptor\ngApi\obj\Debug\netcoreapp2.2\ngApi.pdb
